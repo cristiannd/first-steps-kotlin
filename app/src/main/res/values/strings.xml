@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AndroidMaster</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="male_image_description">Logo del género hombre</string>
+    <string name="female_image_description">Logo del género mujer</string>
+    <string name="height">Altura</string>
+    <string name="centimeters">%s cm</string>
+    <string name="weight">Peso</string>
+    <string name="plus_image_description">Signo sumar</string>
+    <string name="subtract_image_description">Signo restar</string>
+    <string name="age">Edad</string>
 </resources>
