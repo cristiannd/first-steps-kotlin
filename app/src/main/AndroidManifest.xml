@@ -21,6 +21,9 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".imccalculator.ResultIMCActivity"
+            android:exported="false" />
+        <activity
             android:name=".imccalculator.ImcCalculatorActivity"
             android:exported="false" />
         <activity

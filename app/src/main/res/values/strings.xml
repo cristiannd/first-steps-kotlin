@@ -10,4 +10,21 @@
     <string name="plus_image_description">Signo sumar</string>
     <string name="subtract_image_description">Signo restar</string>
     <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="error">Error</string>
+
+    <string name="title_low_weight">Peso bajo</string>
+    <string name="description_low_weight">Estás por debajo del índice de masa corporal recomendado</string>
+
+    <string name="title_regular_weight">Peso normal</string>
+    <string name="description_regular_weight">Tienes un índice de masa corporal recomendado</string>
+
+    <string name="title_high_weight">Sobrepeso</string>
+    <string name="description_high_weight">Estás por encima del índice de masa corporal recomendado</string>
+
+    <string name="title_critical_weight">Obesidad</string>
+    <string name="description_critical_weight">Estás muy por encima del índice de masa corporal recomendado</string>
+
 </resources>

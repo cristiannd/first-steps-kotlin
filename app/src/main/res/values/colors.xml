@@ -15,4 +15,9 @@
     <color name="title_text">#FF8D8E98</color>
     <color name="background_fab">#FF6200EE</color>
 
+    <color name="low_weight">#FFEB3B</color>
+    <color name="regular_weight">#4CaF50</color>
+    <color name="high_weight">#FF5722</color>
+    <color name="critical_weight">#FF1100</color>
+
 </resources>
