@@ -21,4 +21,11 @@
         android:layout_gravity="center"
         android:text="IMCApp" />
 
+    <Button
+        android:id="@+id/btnToDoApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="TODO App" />
+
 </LinearLayout>

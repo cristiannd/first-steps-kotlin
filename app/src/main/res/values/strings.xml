@@ -27,4 +27,23 @@
     <string name="title_critical_weight">Obesidad</string>
     <string name="description_critical_weight">Estás muy por encima del índice de masa corporal recomendado</string>
 
+    <!--ToDoApp-->
+    <string name="todo_title">¡Bienvenido!</string>
+    <string name="todo_categories">Categorías:</string>
+
+    <!-- TODO: Agregar en CategoriesViewHolder.kt -->
+    <string name="todo_category_business">Negocios</string>
+    <string name="todo_category_personal">Personal</string>
+    <string name="todo_category_other">Otros</string>
+
+    <string name="todo_tasks">Tareas:</string>
+    <string name="todo_dialog_add_task">Añade una tarea</string>
+    <string name="todo_dialog_category_business">Negocio</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_button_add_task">Crear tarea</string>
+
+
+
+
 </resources>

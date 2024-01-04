@@ -32,6 +32,10 @@
         <activity
             android:name=".firstapp.FirstAppActivity"
             android:exported="true" />
+        <activity
+            android:name=".todoapp.TodoActivity"
+            android:theme="@style/Theme.TODOApp"
+            android:exported="false" />
     </application>
 
 </manifest>

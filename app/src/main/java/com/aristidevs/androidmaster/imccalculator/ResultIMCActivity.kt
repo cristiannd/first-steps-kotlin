@@ -33,11 +33,11 @@ class ResultIMCActivity : AppCompatActivity() {
     private fun initUI(result: Double) {
         tvIMC.text = result.toString()
 
-        when(result) {
+        when (result) {
             in 0.00..18.50 -> { // Peso bajo
                 tvResult.text = getString(R.string.title_low_weight)
                 tvResult.setTextColor(ContextCompat.getColor(this, R.color.low_weight))
-                tvDescription.text  = getString(R.string.description_low_weight)
+                tvDescription.text = getString(R.string.description_low_weight)
             }
             in 18.51..24.99 -> { // Peso normal
                 tvResult.text = getString(R.string.title_regular_weight)
